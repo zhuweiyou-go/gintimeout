@@ -1,4 +1,4 @@
-module github.com/zhuweiyou-go/getmiddlestring
+module github.com/zhuweiyou-go/gintimeout
 
 go 1.20
 
